@@ -1,0 +1,20 @@
+{
+  "name": "serverless_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.17",
+    "serverless": "^2.25.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.8.0",
+    "serverless-offline-env": "^0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
